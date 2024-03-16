@@ -1,6 +1,6 @@
 # stats220
 
-* Kia ora koutou e te whānau welcome to my first and only Stats 220 repo folder!!*
+*Kia ora koutou e te whānau welcome to my first and only Stats 220 repo folder!!*
 
 This is where I will be posting all of my Stats 220 stuff, while making my open debut on Github
 
