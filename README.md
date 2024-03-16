@@ -1,4 +1,4 @@
-# stats220
+# Stats220
 
 *Kia ora koutou e te whānau welcome to my first and only Stats 220 repo folder!!*
 
