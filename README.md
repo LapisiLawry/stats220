@@ -6,10 +6,10 @@ This is where I will be posting all of my Stats 220 stuff, while making my open 
 
 *There are **MANY** things that you will learn from my file, some of them being:*
 
--How **NOT** to write the start of your repo 
--How an amateur with confidence codes 
--How stats can be fun for many reasons not just that if you know everything you can always be right
-  -(How to use stats to always be right) 
+- How **NOT** to write the start of your repo 
+- How an amateur with confidence codes 
+- How stats can be fun for many reasons not just that if you know everything you can always be right
+  - (How to use stats to always be right) 
 
 here is the link to my [uni profile](https://profiles.auckland.ac.nz/jlaw652) although you won't find anything useful on it
 
